@@ -1,0 +1,6 @@
+C:\Users\Tanker_Main\Documents\Visual Studio 2012\Projects\serverTest\serverTest\bin\Release\serverTest.exe.config
+C:\Users\Tanker_Main\Documents\Visual Studio 2012\Projects\serverTest\serverTest\bin\Release\serverTest.exe
+C:\Users\Tanker_Main\Documents\Visual Studio 2012\Projects\serverTest\serverTest\bin\Release\serverTest.pdb
+C:\Users\Tanker_Main\Documents\Visual Studio 2012\Projects\serverTest\serverTest\obj\Release\serverTest.exe
+C:\Users\Tanker_Main\Documents\Visual Studio 2012\Projects\serverTest\serverTest\obj\Release\serverTest.pdb
+C:\Users\Tanker_Main\Documents\Visual Studio 2012\Projects\serverTest\serverTest\obj\Release\serverTest.csprojResolveAssemblyReference.cache

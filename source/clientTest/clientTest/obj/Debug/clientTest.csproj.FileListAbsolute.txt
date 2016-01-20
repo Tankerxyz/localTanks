@@ -1,0 +1,5 @@
+c:\users\tanker_main\documents\visual studio 2012\Projects\clientTest\clientTest\bin\Debug\clientTest.exe.config
+c:\users\tanker_main\documents\visual studio 2012\Projects\clientTest\clientTest\bin\Debug\clientTest.exe
+c:\users\tanker_main\documents\visual studio 2012\Projects\clientTest\clientTest\bin\Debug\clientTest.pdb
+c:\users\tanker_main\documents\visual studio 2012\Projects\clientTest\clientTest\obj\Debug\clientTest.exe
+c:\users\tanker_main\documents\visual studio 2012\Projects\clientTest\clientTest\obj\Debug\clientTest.pdb
